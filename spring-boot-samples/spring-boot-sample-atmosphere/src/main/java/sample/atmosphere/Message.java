@@ -19,7 +19,7 @@ package sample.atmosphere;
 import java.util.Date;
 
 public class Message {
-
+//ramon
 	private String message;
 
 	private String author;
